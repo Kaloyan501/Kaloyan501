@@ -4,4 +4,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started my programing journey with Scratch.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaloya501&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaloyan501&show_icons=true&theme=radical)
