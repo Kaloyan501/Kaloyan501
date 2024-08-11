@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning Java (Really slowly, but still)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started my programing journey with Scratch.
-- <!-- 👯 I’m looking to collaborate on -->
-- <!--🤔 I’m looking for help with ... -->
