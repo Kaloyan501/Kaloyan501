@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋 I'm Kaloyan Donev </h2>
-<p align="center"> - 🔭 I'm currently updating the WorkLoad modpack over on curseforge to 1.21.1 (Mod devs, please update your mods already) </p>
-<p align="center"> - 🌱 I’m currently learning Java (Really slowly, but still) (I hate mixins and lambdas)</p>
+<p align="center"> - 🔭 I'm currently workking on a portfolio</p>
+<p align="center"> - 🌱 I’m currently learning Java (Really slowly, but still) and React!</p>
 <p align="center"> - 😄 Pronouns: he/him </p>
 <p align="center"> - ⚡ Fun fact: I started my programing journey with Scratch. </p>
 
