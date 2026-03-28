@@ -4,7 +4,7 @@
 <p align="center"> - 😄 Pronouns: he/him </p>
 <p align="center"> - ⚡ Fun fact: I started my programing journey with Scratch. </p>
 
-<div style="text-align: center text-align: center " >
+<div style="text-align: center">
   <img src="./profile/stats.svg" alt="Stats" />
 </div>
 
