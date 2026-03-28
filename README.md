@@ -4,7 +4,5 @@
 <p align="center"> - 😄 Pronouns: he/him </p>
 <p align="center"> - ⚡ Fun fact: I started my programing journey with Scratch. </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaloyan501&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-</div>
+![Stats](./profile/stats.svg)
 
