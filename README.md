@@ -5,6 +5,6 @@
 <p align="center"> - ⚡ Fun fact: I started my programing journey with Scratch. </p>
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="Stats" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kaloyan501&show_icons=true&include_all_commits=true&theme=solarized-light)](https://github-stats-extended.vercel.app/api?username=Kaloyan501&show_icons=true&include_all_commits=true&theme=solarized-light)
 </div>
 
